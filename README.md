@@ -12,7 +12,7 @@ The user can experience the changes made by him/her instantaneously.
  * JavaScript
 
 ## Screenshots
-![1](https://github.com/Shreyas-the-coder/Code-Player/assets/137000011/9be0e2b5-b28d-43e9-bfd0-f95424d98fe0)
+![image](https://github.com/ShreyasM-codes/Code-Player/assets/137000011/ff0be056-53a7-44e7-bd01-fc5042132ff5)
 
-![2](https://github.com/Shreyas-the-coder/Code-Player/assets/137000011/d20c5f17-1a0d-4acc-b17e-8122e5df22c3)
+![1](https://github.com/ShreyasM-codes/Code-Player/assets/137000011/1b1b594d-ac4f-4cf8-a01c-34e810d3053d)
 
