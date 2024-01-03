@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="jquery-ui/jquery-ui.js"></script>
+
+        <link href="jquery-ui/jquery-ui.css" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    
+        <title>CODE PLAYER</title>
+    </head>
+    <body>
+       <div id="header">
+            <div id="logo">Code Player</div>
+
+                <div id="buttonContainer">
+                    <div class="toggleButton active" id="html">HTML</div>
+                    <div class="toggleButton" id="css">CSS</div>
+                    <div class="toggleButton" id="javascript">JAVASCRIPT</div>
+                    <div class="toggleButton active" id="output">OUTPUT</div>
+                </div>
+
+            </div>
+
+            <div id="bodyContainer">
+                <textarea  id="htmlPanel" class="panel" ><p id="paragraph"> Hello world! </p></textarea>
+                <textarea  id="cssPanel" class="panel hidden" >p {color:green;}</textarea>
+                <textarea id="javascriptPanel" class="panel hidden">document.getElementById("paragraph").innerHTML="Hello Shreyas!";</textarea>
+
+                <iframe id="outputPanel" class="panel"></iframe>
+         
+            </div>
+        <script src="jquery.js"></script>
+    </body>
+</html>
